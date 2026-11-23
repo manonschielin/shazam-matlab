@@ -1,0 +1,23 @@
+# Morceaux commerciaux utilisés pour la démonstration : non redistribuables
+audio/Pyramids.mp3
+audio/Creep.mp3
+audio/Dracula.mp3
+audio/Roses.mp3
+
+# Bruit de conversations : à retélécharger depuis sa source (voir README)
+audio/brouhaha.mp3
+
+# Enregistrements faits en salle : on y entend d'autres personnes
+audio/enregistrements/
+
+# Cache des clés de 1 000 morceaux (15 Mo), régénéré par outils/passage_echelle.m
+resultats/cles_1000.mat
+
+# Fichiers temporaires de MATLAB et du système
+*.asv
+*.m~
+*.autosave
+slprj/
+Thumbs.db
+desktop.ini
+.DS_Store
